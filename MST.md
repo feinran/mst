@@ -835,9 +835,11 @@ Si + O2 -> SiO2
 ### Beschreiben Sie die Teilprozesse bei der „thermischen Oxidation“ auf molekularer Ebene und nennen Sie den Grund der die Herstellung dicker Oxidschichten limitiert.
 1. Diffusion des Sauerstoffes / Wassers bis zur Oxidoberfläche
 2. Diffusion des Sauerstoffes / Wasserdampf durch das bereits gebildete Oxid bis zur Grenzschicht
-3. Chemische Reaktion an der Grenzschicht zwischen SiO2 und Si
+3. Chemische Reaktion an der Grenzschicht zwischen O2 und Si
 
 Bei einer dickeren Oxidschicht ist es Unwahrscheinlicher, dass der Sauerstoff/Wasserdampf bis zur Grenzschicht diffundiert.
+
+## 7.2 Locos
 
 ### Was bedeutet LOCOS und wie funktioniert das?
 - „Local Oxidation of Silicon“, Lokale Oxidation von Silizium.
@@ -882,7 +884,8 @@ Die Goldatome stellen Rekombinationszentren dar, d.h. fördern die Rekombination
 - Legieren (Aufschmelzen)
 
 ## 8.4 Diffusion aus erschöpflicher Quelle
-a) Erläutern Sie die Diffusion aus einer erschöpflichen Quelle und skizzieren Sie den
+
+### Erläutern Sie die Diffusion aus einer erschöpflichen Quelle und skizzieren Sie den Verlauf
 - Dünne Schichten mit Dotieratomen werden auf der Oberfläche des Kristalls aufgebracht
 -  Sie diffundieren solange in den Kristall, bis der Dotierstoff aufgezehrt ist.
 -  Die Konzentration der Dotierstoffe sinkt an der Oberfläche laufend ab.
@@ -1129,7 +1132,7 @@ LPCVD:
 ## 11.1 Resist
 
 ### Was ist ein Resist?
-- Ein Strahlungsempfindliches Polyme
+- Ein Strahlungsempfindliches Polymer
 - Belichtung entfernt un/belichtete Bereiche
 
 ### Erläutern Sie typischen Funktionsmechanismen (Chemie) für einen Positiv-und einen negativ Resist.
@@ -1184,14 +1187,15 @@ Parameter:
 - Spray-Coating
 - Trocken Resist (Tepich)
 
+
 ## 11.5 Verwendete Wellenlängen in der Lithografie
 
-### Welche Arten von Strahlung (Wellenlängenbereiche und Strahlungsquellen) verwendet man in der Lithographie (gefragt sind 5 von mindestens 8 möglichen Varianten)?
-1. 436 nm (G – Linie einer Quecksilberdampflampe)
-2. 365 nm (I – Linie einer Quecksilberdampflampe)
-3. 248 nm (KrF Excimer-Laser (= Gaslaser))
-4. 193 nm (ArF Excimer-Laser (= Gaslaser))
-5. 13 nm  (Extrem Ultraviolette Strahlung)
+    ### Welche Arten von Strahlung (Wellenlängenbereiche und Strahlungsquellen) verwendet man in der Lithographie (gefragt sind 5 von mindestens 8 möglichen Varianten)?
+    1. 436 nm (G – Linie einer Quecksilberdampflampe)
+    2. 365 nm (I – Linie einer Quecksilberdampflampe)
+    3. 248 nm (KrF Excimer-Laser (= Gaslaser))
+    4. 193 nm (ArF Excimer-Laser (= Gaslaser))
+    5. 13 nm  (Extrem Ultraviolette Strahlung)
 
 ## 11.6 Masken
 
@@ -1231,8 +1235,7 @@ Darkfield: Strukturen sind hell/lichtdurchlässig, der Rest dunkel/undurchlässi
 ## 11.13 Weiterentwicklung der optischen Lithographie durch „Computational Litography “
 
 ### Was versteht man unter Computational Lithography?
-Man Berechnet die Beugung und Charakteristik mit in die Erstellung der Maske
-ein um die gewünschte Struktur auf dem Wafer zu erstellen.
+Man Berechnet die Beugung und Charakteristik von Licht mit in die Erstellung der Maske ein um die gewünschte Struktur auf dem Wafer zu erstellen.
 
 ## 11.20 Maskenlose Lithografie
 
@@ -1249,6 +1252,8 @@ Abtragen der Oberfläche mit chemischen Reagenzien oder Teilchen hoher kinetisch
 ### Was versteht man unter isotropen und anisotropen Ätzen und wie ist der Anisotropie-Faktor definiert?
 Isotropes Ätzen: Unterätzt (Unter die Maske), Ätzt in alle Richtungen gleichschnell
 Anisotropes Ätzen: Senkrecht an Masek herunter oder weg 
+
+![ani](MSTIMG/ani.jpg)
 
 ### Wie ist die Selektivität definiert?
 ![aetz](MSTIMG/aetzrate.jpg)
