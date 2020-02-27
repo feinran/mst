@@ -306,7 +306,7 @@ integral n(E)W(E) dE
 ## 2.22 Optische Transmission
 
 ### Erläutern Sie, warum Silizium-Membrane im Bereich von 1 μm bis 20 μm Dicke bei Betrachtung im Durchlicht unterschiedliche Farben haben?
-Weil Silicium unterschiedliche Lichtwellen verschieden stark absobiert. Desto dicker die Silizium-Membrand
+Weil Silizium unterschiedliche Lichtwellen verschieden stark absobiert. Desto dicker die Silizium-Membrand
 desto dunkelröter erscheint sie im Durchlicht.
 
 ## 2.23 Zonenziehen und Reinigung durch Segregation
@@ -660,183 +660,306 @@ Kn = λ/d, wobei d die charakteristische Abmessung und λ die mittlere freie Weg
 ## 5.7 Öl-Diffusionspumpe
 
 ### Skizzieren und erläutern Sie das Funktionsprinzip einer Öl- Diffusionspumpe.
-1. In einem Siedegefäß werden Öl (Öldiffusionspumpe) oder andere Treibmittel verdampft
-2. Die Dämpfe steigen hoch, werden durch eine Düse beschleunigt und nehmen dabei durch Diffusion aus dem auszupumpenden Gefäß Gasmoleküle mit
-3. Der Dampf wird am Kühlmantel kondensiert, das Gas von der Vor(vakuum)pumpe abgesaugt
+- Öl wird Siedegefäß verdampft.
+- Die Dämpfe steigen auf
+- Die Dämpfe werden durch Düsen wieder nach unten geleitet und beschleunigt.
+- Gasmoleküle werden mitgenommen.
+- Unterdruck (Vakuum) erzeugt.
+- Bis zu 10^-8 Pa sind möglich.
+- Ein Vorvakuum ist notwending.
+
+![Pump](MSTIMG/öldiffusionspumpe.jpg)
 
 ## 5.8 Turbo-Molekularpumpe
 
 ### Skizzieren und erläutern Sie das Funktionsprinzip einer Molekularpumpe.
-Übertragen mit sehr schnell bewegten Flächen Impulse auf
-Gasmoleküle und fördern sie dadurch in einem Raum
-höheren Drucks. Sie besitzen dafür Schaufelsysteme ähnlich
-einer Turbine
-5.9 Kryopumpe
-Skizzieren und erläutern Sie das Funktionsprinzip einer Kryopumpe.
-Kühlen der Wand des Vakuumbehälters auf extrem niedrige Temperaturen
-Gasmoleküle werden in fester Form durch Kondensation niedergeschlagen
-6.1 „Morphologie“
-a) Was versteht man unter dem Begriff „Morphologie“ einer dünnen Schicht?
-Die Gestalt, die Form oder das Organisationsprinzip
-b) Welche beiden Eigenschaften sind für die Qualität einer Schicht entscheidend?
-1. Physikalischer Zustand der Oberfläche (Rauigkeit)
+- Hat ein Schaufelsystem wie eine Turbine
+- Die mit 10000k U/Min sich drehen
+- Ein Vorvakuum ist notwending.
+- Überträgt Impulse auf Gasmoleküle um sie in einen Raum mit höherem Druck zu befördern
+
+![Molekular](MSTIMG/molekularpumpe.jpg)
+
+## 5.9 Kryopumpe
+
+### Skizzieren und erläutern Sie das Funktionsprinzip einer Kryopumpe.
+- Extermes Kühlen der Wände des Vakuumbehälters
+- Gamolekühle werden in fester Form durch Kondensation niedergeschlagen
+- Erzeugung von Hoch- und Ultrahochvakuum möglich
+
+![Kryo](MSTIMG/kryopumpe.jpg)
+
+# 6. Einführung in dünne Schichten
+
+## 6.1 „Morphologie“
+
+### Was versteht man unter dem Begriff „Morphologie“ einer dünnen Schicht?
+- Gestalt
+- Form
+- Organisationsprinzip
+
+### Welche beiden Eigenschaften sind für die Qualität einer Schicht entscheidend?
+1. Rauhigkeit (Physikalischer Zustand der Oberfläche)
 2. Aktivierungsenergie für Oberflächendiffusion und Volumendiffusion
-6.2 Strukturzonenmodell von Thornton
-Skizzieren Sie das Strukturzonenmodell von Thornton.
-a) Welche physikalischen Größen bilden die beiden Achsen?
-Partilaldruck der Atmosphäre und Temperaturkoeffizienten
-b) Welche Schichteigenschaften betrachtet Thornton in seinem Modell?
-Oberflächendiffusion, Dichte, Hartfestigkeit, innere Spannungen
-c) Erläutern Sie die einzelnen Strukturzonen. Welche Schichteigenschaften liegen in den einzelnen
-Zonen vor?
-Zone 1:
-1. Oberflächendiffusion reicht nicht aus um abgeschattete Bereiche auszugleichen (Temperatur zu niedrig)
-2. An Keimstellen wachsen nadelförmige Kristallite
-3. Kristallite verbreitern sich durch Einfangen weiterer Atome
+
+## 6.2 Strukturzonenmodell von Thornton
+
+### Skizzieren Sie das Strukturzonenmodell von Thornton.
+![thorn](MSTIMG/thornton.jpg)
+
+### Welche physikalischen Größen bilden die beiden Achsen?
+- Partilaldruck der Atmosphäre
+- Temperaturkoeffizienten
+
+### Welche Schichteigenschaften betrachtet Thornton in seinem Modell?
+- Oberflächendiffusion
+- Dichte
+- Haftfestigkeit
+- innere Spannungen
+
+### Erläutern Sie die einzelnen Strukturzonen. Welche Schichteigenschaften liegen in den einzelnen
+#### Zone 1:
+1. An Keimstellen wachsen nadelförmige Kristallite
+2. Kristallite verbreitern sich durch Einfangen weiterer Atome
+
 Schichteigenschaften:
-Hohe innere Spannungen, Schicht ist porös, hat geringe Haftfestigkeit
-Zone T:
-1. Erhöhte Oberflächendiffusion
-2. Adsorbierte Atome können Wirkung der Abschattung zum Teil ausgleichen
-3. Basis der Kristallite aus Zone 1 wird verbreitert
-Schichteigenschaften: Faserförmige Schichtstruktur. Die Schicht ist außerdem dichter als bei Zone 1
-Zone 2:
-1. Oberflächendiffusion nimmt stark zu und bestimmt das Wachstum stark mit
-2. Mit wachsender Substrattemperatur nimmt der Durchmesser der Säulen zu
-Schichteigenschaften: Schicht hat säulenartige Struktur, ist dichter und die Hartfestigkeit wächst
-Zone 3:
-Wachstum wird durch Volumendiffusion bestimmt
-Schichteigenschaften: Polykristallines Gefüge hoher Dichte
-d. Warum und wie hängen die Übergangstemperaturen der einzelnen Zonen von dem Partialdruck ab?
-Übergangstemperaturen steigen mit wachsendem Druck, wegen folgender Effekte:
-Effekt 1: Atome geben durch Kollisionen einen Teil ihrer kinetischen Anfangsenergie an die umgebenden Gase ab  weniger Energie für Oberflächenmigration
-Gegenteiliger Effekt 2: Bei hinreichender Druckerhöhung sind die Stöße der Atome so stark, dass es zu unterschiedlichen Auftreffwinkeln kommt. Wirkung der Abschattung wird geringer
-6.3. Kantendeckung
-Geben Sie für die nachfolgend dargestellten Kantenbedeckungstypen (b), (c) und (d) an, wie die beiden Prozessparameter „Oberflächenbeweglichkeit“ und „Mittlere Freie Weglänge“ gewählt werden müssen, damit sich die dargestellte Kantenbedeckung ergibt.
-b) Mittlere Weglänge in Dimension der Gefäßgröße und hohe Oberflächenbeweglichkeit
-c) Große mittlere freie Weglänge im Vergleich zur Gefäßdimension, geringe Oberflächenbeweglichkeit
-d) Wie c) nur mit kleiner mittleren freien Weglänge
-6.4 Mechanische Spannungen
-Nennen Sie mindestens 2 Gründe, welche bei der Erzeugung dünner Schichten zu mechanischen Spannungen führen.
+- Oberflächendiffusion reicht nicht aus um abgeschattete Bereiche auszugleichen (Temperatur zu niedrig)
+- Wenig Dicht?
+- Schicht ist porös (geringe Haftfestigkeit)
+- Hohe innere Spannungen
+
+### Zone T:
+1. Adsorbierte Atome können Wirkung der Abschattung zum Teil ausgleichen
+2. Basis der Kristallite aus Zone 1 wird verbreitert
+
+Schichteigenschaften: 
+- Faserförmige Schichtstruktur. 
+- Erhöhte Oberflächendiffusion
+- Dichter als Zone 1
+
+### Zone 2:
+1. Mit wachsender Substrattemperatur nimmt der Durchmesser der Säulen zu
+
+Schichteigenschaften:
+- Schicht hat säulenartige Struktur
+- Oberflächendiffusion nimmt stark zu und bestimmt das Wachstum stark mit
+- Nochmal Dichter
+- Hartfestigkeit wächst
+
+### Zone 3:
+1. Wachstum wird durch Volumendiffusion bestimmt
+2. Geeigneter Temperaturbereich für Sputtern, CVD, ...
+
+Schichteigenschaften:
+- Polykristallines Gefüge
+- Hohe Dichte
+
+
+### Warum und wie hängen die Übergangstemperaturen der einzelnen Zonen von dem Partialdruck ab?
+Die Übergangstemperaturen steigen mit wachsendem Druck an.
+
+Effekt:
+- Atome stoßen mehr von Gaßatomen ab
+- Oberflächenmigration reduziert sich
+- Schlechtere Schichtqualität
+
+Nebeneffekt:
+- Atomzusammenstöße
+- Andere Auftreffwinkel
+- Bessere Schichtqualität bei hinreichend großem Druck
+
+## 6.3. Kantendeckung
+
+### Geben Sie für die nachfolgend dargestellten Kantenbedeckungstypen (b), (c) und (d) an, wie die beiden Prozessparameter „Oberflächenbeweglichkeit“ und „Mittlere Freie Weglänge“ gewählt werden müssen, damit sich die dargestellte Kantenbedeckung ergibt.
+![Kanten](MSTIMG/kantenbedeckung.jpg)
+
+a) Mittlere Weglänge in Dimension der Gefäßgröße und hohe Oberflächenbeweglichkeit
+b) Große mittlere freie Weglänge im Vergleich zur Gefäßdimension, geringe Oberflächenbeweglichkeit
+c) Wie b) nur mit kleiner mittleren freien Weglänge
+
+## 6.4 Mechanische Spannungen
+
+### Nennen Sie mindestens 2 Gründe, welche bei der Erzeugung dünner Schichten zu mechanischen Spannungen führen.
 1. Hohe Temperatur bei der Abscheidung (Verspannung beim Abkühlen)
 2. Intrinsische Spannungen aufgrund des Wachstumsprozesses
-Speziell Druckspannungen:
-1. Ausdehnungskoeffizient der Schicht < Substrat (Bimetalleffekt)
-2. Volumenzunahme während der Abscheidung
-Speziell Zugspannungen:
-1. Ausdehnungskoeffizient der Schicht > Substrat (Bimetalleffekt)
-2. Ausgasen von eingelagertem Prozessgas (z. B. Wasserstoff)
-6.5 Haftfestigkeit
-a) Nennen Sie mindestens drei physikalische Parameter, welche die Haftfestigkeit einer dünnen Schicht beeinflussen?
-1. Prozesstemperatur  Strukturzonenmodelle
-2. Prozessdruck  Strukturzonenmodelle
-3. Art der Adhäsionswechselwirkung  Bindungsenergie
-b) Wie funktionieren dagegen „chemische Haftvermittler“?
-Chemische Haftvermittler basieren auf einem Trägermolekül mit zwei oder mehr Liganden, welche die Haftung über die Grenzfläche hinweg aufbauen
-Erster Ligand baut die Haftung zu dem Substratmaterial auf
-Zweiter Ligand baut die Haftung zu dem abgeschiedenen Material auf
- Trägermolekül hält nur die beiden Liganden zusammen
-6.6 Klassifikation der Verfahren zur Herstellung dünner Schichten
-Nennen Sie mindestens 7 verschiedene Verfahren zur Herstellung dünner Schichten (Dünnschichttechnik). Ordnen Sie diese Verfahren thematisch zusammengehörigen Klassen zu.
-Abscheiden
-PVD Prozesse: Darunter Sputtern und Aufdampfen
-CVD Prozesse: Darunter LPCVD, APVCD, PECVD, ALD, Epitaxie
-Umwandeln
-Dotieren, Thermische Oxidation
-6.7 Schichtqualität
-Nennen Sie mindestens 5 Kriterien nach denen man die Qualität eines Prozesses oder die Qualität einer Schicht bewerten kann.
-1. Gute Homogenität der Dicke
-2. Hohe Reinheit der Schicht
-3. Gute Stöchiometrie
+
+## 6.5 Haftfestigkeit
+
+### Nennen Sie mindestens drei physikalische Parameter, welche die Haftfestigkeit einer dünnen Schicht beeinflussen?
+1. Prozesstemperatur
+2. Prozessdruck
+3. Art der Adhäsionswechselwirkung
+
+### Wie funktionieren dagegen „chemische Haftvermittler“?
+- Trägermolekül mit zwei oder mehr Liganden
+- Baut Haftung and der Grenzfläche auf (Substratmaterial, abgeschiedenes Material)
+
+## 6.6 Klassifikation der Verfahren zur Herstellung dünner Schichten
+
+### Nennen Sie mindestens 7 verschiedene Verfahren zur Herstellung dünner Schichten (Dünnschichttechnik). Ordnen Sie diese Verfahren thematisch zusammengehörigen Klassen zu.
+- Abscheiden
+  - PVD Prozesse
+    - Sputtern
+    - Aufdampfen
+  - CVD Prozesse
+    - CVD
+    - LPCVD
+    - Epitaxie
+- Umwandeln
+  - Thermische Oxidation
+  - Dotieren
+
+![duenn](MSTIMG/duenn.jpg)
+
+## 6.7 Schichtqualität
+
+### Nennen Sie mindestens 5 Kriterien nach denen man die Qualität eines Prozesses oder die Qualität einer Schicht bewerten kann.
+1. Hohe Reinheit 
+2. Exzellente Adhäsion
+3. Gute Homogänität der Dicke
 4. Gute elektrische Eigenschaften
 5. Gute Kantenbedeckung
-6. Exzellente Adhäsion
-7.1 Thermische Oxidation
-a) Nennen Sie eine mögliche Reaktionsgleichung für die thermische Oxidation von Silizium.
-Si + O2  SiO2
-b) In welchem Temperaturbereich läuft dieser Prozess ab?
+6. Gute Stöchiometrie
+
+
+# 7 Thermische Oxidation
+
+## 7.1 Thermische Oxidation
+
+### Nennen Sie eine mögliche Reaktionsgleichung für die thermische Oxidation von Silizium.
+Si + O2 -> SiO2
+
+### In welchem Temperaturbereich läuft dieser Prozess ab?
 800°C-1200°C
-c) Beschreiben Sie die Teilprozesse bei der „thermischen Oxidation“ auf molekularer Ebene und nennen Sie den Grund der die Herstellung dicker Oxidschichten limitiert.
+
+### Beschreiben Sie die Teilprozesse bei der „thermischen Oxidation“ auf molekularer Ebene und nennen Sie den Grund der die Herstellung dicker Oxidschichten limitiert.
 1. Diffusion des Sauerstoffes / Wassers bis zur Oxidoberfläche
 2. Diffusion des Sauerstoffes / Wasserdampf durch das bereits gebildete Oxid bis zur Grenzschicht
 3. Chemische Reaktion an der Grenzschicht zwischen SiO2 und Si
-Die bereits gebildete Oxidschicht erschwert es weiteren Sauerstoffmolekülen/Wasser in den Kristall zu diffundieren, bis sie fast zum Diffusionstopp wirken und kein Sauerstoffmolekül/Wasser mehr ein diffundieren kann  limitiert das Schichtwachstum
-7.2 LOCOS Was bedeutet LOCOS und wie funktioniert das?
-„Local Oxidation of Silicon“, Lokale Oxidation Silicium. Man kann Stellen, die nicht oxidiert werden, mit Si3N4 pasiveren. Sie stellen für den Sauerstoff eine Diffusionssperre dar, sodass an den beschichteten (passivierten) Stellen es zu keiner Oxidation kommt, die Oxidation also lokal an den unbeschichteten Stellen stattfindet. Die Passivierschicht kann nach der Oxidation wieder entfernt werden, z.B. mit Ätzverfahren.
-7.3 Feucht- und Trockenoxidation
-a) Erläutern Sie bei der thermischen Oxidation die Unterschiede zwischen einer „Feuchtoxidation“ und einer „Trockenoxidation. Nennen Sie dabei die Reaktionsgleichungen, die Prozesstemperaturen und vergleichen Sie die Wachstumsraten.
-Si + 2H2O  SiO2 + H2
-8.1 Dotierung
-a) Was versteht man unter Dotierung ganz allgemein?
-Dotieren ist die gezielte Verunreinigung eines kristallinen Ausgangsmaterials mit geringen Mengen von Fremdatomen, welche die (elektrischen) Eigenschaften stark ändern
-b) Was ist n- bzw. p-Dotierung?
-p-Dotierung ist die gezielte Verunreinigung mit Atomen, die ein Valenzelektronen weniger als das Ausgangsmaterial haben.
-n-Dotierung ist die gezielte Verunreinigung mit Atomen, die ein Valenzelektronen mehr als das Ausgangsmaterial haben.
-c) Nennen Sie mindestens einen typischen Dotierstoff für ein p- oder n-dotiertes Silizium.
-Stoff für p dotiertes Silicium: Bor
-Stoff für n dotiertes Silicium: Phosphor
-8.2 Auswirkung von Goldatomen
-Welche Auswirkungen haben Goldatome, welche in das Silizium Kristallgitter eingebaut sind?
+
+Bei einer dickeren Oxidschicht ist es Unwahrscheinlicher, dass der Sauerstoff/Wasserdampf bis zur Grenzschicht diffundiert.
+
+### Was bedeutet LOCOS und wie funktioniert das?
+- „Local Oxidation of Silicon“, Lokale Oxidation von Silizium.
+- Man kann Stellen, die nicht oxidiert werden sollen, mit Si3N4 pasiveren (Diffusionsperre).
+- Oxidation also lokal an den unbeschichteten Stellen.
+- Die Passivierschicht kann nach der Oxidation wieder entfernt werden, z.B. mit Ätzverfahren.
+
+## 7.3 Feucht- und Trockenoxidation
+
+### Erläutern Sie bei der thermischen Oxidation die Unterschiede zwischen einer „Feuchtoxidation“ und einer „Trockenoxidation. Nennen Sie dabei die Reaktionsgleichungen, die Prozesstemperaturen und vergleichen Sie die Wachstumsraten.
+Si + 2(H2O) -> SiO2 + H2
+
+![oxi](MSTIMG/oxi.jpg)
+
+## 8.1 Dotierung
+
+### Was versteht man unter Dotierung ganz allgemein?
+- Gezielte Verunreinigung von kristallinen Materialien
+- Mit geringen mengen von Fremdatomen
+- Ändert (elektrische) Eigenschaften stark
+
+### Was ist n- bzw. p-Dotierung?
+p-Dotierung: Valenzelektronen weniger
+n-Dotierung: Valenzelektronen mehr
+
+### Nennen Sie mindestens einen typischen Dotierstoff für ein p- oder n-dotiertes Silizium.
+Stoff für p dotiertes Silizium: Bor(loch)
+Stoff für n dotiertes Silizium: Phosphor
+
+## 8.2 Auswirkung von Goldatomen
+
+### Welche Auswirkungen haben Goldatome, welche in das Silizium Kristallgitter eingebaut sind?
 Die Goldatome stellen Rekombinationszentren dar, d.h. fördern die Rekombination von Löchern und Elektronen (was u.a. für Solarzellen schädlich und unerwünscht ist).
-8.3 Dotierverfahren
-Diffusion, Ionenimplantation, Epitaxie, Dotierung beim Kristallziehen, Legieren
-8.4 Diffusion aus erschöpflicher Quelle
+
+## 8.3 Dotierverfahren
+
+### Zählen Sie mindestens 4 Dotierverfahren auf.
+- Diffusion
+- Ionenimplantation
+- Epitaxie (Als Gas beim Wachstum hinzugefügt)
+- Dotierung beim Kristallziehen (gleichmäßig)
+- Legieren (Aufschmelzen)
+
+## 8.4 Diffusion aus erschöpflicher Quelle
 a) Erläutern Sie die Diffusion aus einer erschöpflichen Quelle und skizzieren Sie den
+- Dünne Schichten mit Dotieratomen werden auf der Oberfläche des Kristalls aufgebracht
+-  Sie diffundieren solange in den Kristall, bis der Dotierstoff aufgezehrt ist.
+-  Die Konzentration der Dotierstoffe sinkt an der Oberfläche laufend ab.
+
 Konzentrationsverlauf des Dotierstoffes im Inneren des Siliziumkristalls zu verschiedenen
 Zeitpunkten.
-Dünne Schichten mit Dotieratomen werden auf der Oberfläche des Kristalls aufgebracht. Sie
-diffundieren solange in den Kristall, bis der Dotierstoff aufgezehrt ist. Die Konzentration der
-Dotierstoffe sinkt an der Oberfläche laufend ab.
-b) Welcher charakteristischen Funktion entspricht dieser Verlauf?
-Gaußförmiges Profil
-c) Wie errechnet sich die Eindringtiefe?
-8.5 Thermische Diffusion
-Erläutern Sie die Vor- und Nachteile der
-thermischen Diffusion.
-Vorteile:
+
+![erschoepft](MSTIMG/erschoepft.jpg)
+
+### Welcher charakteristischen Funktion entspricht dieser Verlauf?
+Gaußförmiger Funktionsverlauf
+
+### Wie errechnet sich die Eindringtiefe?
+- sqrt(Dt): Diffusionslänge
+- D: Diffusionskonstante
+- t: Zeit
+
+## 8.5 Thermische Diffusion
+
+### Erläutern Sie die Vor- und Nachteile der thermischen Diffusion.
+- Vorteile:
 Günstiger Prozess (Batchgröße typisch 50 Wafer)
 Nachteile:
-1. maximal erreichbare Tiefen der Dotierprofile: einige Mikrometer
-2. Herstellung homogen dotierter Schichten ist problematisch (Prozess beruht auf
-Konzentrationsgradienten)
-3. Herstellung niedrig dotierter Schichten ist problematisch (nur geringe
-Konzentrationsgradienten)
-8.6 Ionenimplantation
-a) Beschreiben Sie die bei der Dotierung durch Ionenimplantation auftretenden Teilprozesse
+1. Tiefe (einige Mikrometer)
+2. homogen dotierter Schichten ist problematisch (Prozess beruht auf Konzentrationsgradienten)
+3. niedrig dotierter Schichten ist problematisch (nur geringe Konzentrationsgradienten)
+
+## 8.6 Ionenimplantation
+
+### Beschreiben Sie die bei der Dotierung durch Ionenimplantation auftretenden Teilprozesse
 1. Ionisierung der Dotierstoffe
-2. Beschleunigung der Dotierstoffe …
-3. Einschießen in den Kristall (Typische Ionenenergie: 10 – 400 keV)
-4. Abbremsen der Ionen erfolgt durch physikalische Prozesse (Stöße (dominiert bei niedriger
-Energie), Elektromagnetische (elektronische) Wechselwirkung (dominiert bei hoher Energie))
+2. Beschleunigung der Dotierstoffe
+3. Einschießen in den Kristall
+4. Abbremsen der Ionen erfolgt durch physikalische Prozesse
 5. Ausheilen (Aktivieren)
-b) Welche Funktion beschreibt das Dotierprofil in z-Richtung?
-Das Dotierprofil ist gaußförmig. Es beschreibt die Tiefe der eingetretenen Ionen
-c) Wie groß ist die typische mittlere Eindringtiefe?
+
+### Welche Funktion beschreibt das Dotierprofil in z-Richtung?
+- Näherungsweise gaußförmig. Es beschreibt die Tiefe der eingetretenen Ionen
+
+### Wie groß ist die typische mittlere Eindringtiefe?
 10nm – 1000nm
-d) Was versteht man unter Streubirne?
-Birnenförmiger Einwirkungsbereich der Streuung. Beschrieben durch die mittlere Reichweite, Streubreite und laterale Abweichung.
-e) Was versteht man unter „Channeling“ und mit welchen Methoden kann man das Verhindern?
-Tunneln in den „Kanälen“ des Einkristalls: entlang bestimmter Kristallrichtungen („Kanäle“) können sich die Ionen mit wesentlich weniger Energieverlust ausbreiten  Reichweite der Ionen in solchen „Kanälen kann bis zu einer Größenordnung größer sein
+
+### Was versteht man unter Streubirne?
+- Birnenförmiger Einwirkungsbereich der Streuung.
+- Beschrieben durch die mittlere Reichweite, Streubreite und laterale Abweichung.
+
+### Was versteht man unter „Channeling“ und mit welchen Methoden kann man das Verhindern?
+Elektronen können durch die Kanäle von Kristallen um bis zu einer Größenordnung weiter ausbreiten.
+
 Unterbindungsmöglichkeiten:
 1. Herausdrehen des Kristalls aus Einschusswinkel um 7°-10°
-2. Abscheidung einer amorphen Oberflächenstreuschicht  Diffuse Streuung des Ionenstrahls
-3. Einschuss einer Amorphisierungsdosis: Oberflächennahe Kristallordnung wird zerstört und es kommt zur diffusen Streuung des Ionenstrahls.
-8.7 Ionenimplantation
-Erläutern Sie die Vor- und Nachteile der Ionenimplantation.
+2. Abscheidung einer amorphen Oberflächenstreuschicht -> Diffuse Streuung des Ionenstrahls
+3. Einschuss einer Amorphisierungsdosis (Oberflächennahe Kristallordnung wird zerstört und es kommt zur diffusen Streuung des Ionenstrahls)
+
+## 8.7 Ionenimplantation
+
+### Erläutern Sie die Vor- und Nachteile der Ionenimplantation.
 Vorteile:
-1. Exakte Kontrolle der Dotier-Dosis durch Integration über den Ionenstrom möglich
-2. Niedertemperaturprozess ermöglicht Maskierung durch Photoresist
-3. Implantationszeiten im Bereich von Sekunden bis Minuten ermöglichen vernünftigen Durchsatz
-4. Massenseparator stellt Reinheit des Dotierstoffes sicher
-5. Dotierprofile bei Ionenimplantation haben steilere Flanken
-6. Variation Dotierprofil durch Variation der Einschussenergie
-7. Maximum der Dotierkonzentration liegt „vergraben“
+1. **Exakte Kontrolle** der Dotier-Dosis durch Integration über den Ionenstrom möglich
+2. **Niedertemperaturprozess** ermöglicht Maskierung durch Photoresist
+3. Implantationszeiten im Bereich von Sekunden bis Minuten ermöglichen **vernünftigen Durchsatz**
+4. Massenseparator stellt **Reinheit** des Dotierstoffes sicher
+5. Dotierprofile bei Ionenimplantation haben **steilere Flanken** (Abgrenzung)
+6. **Variation Dotierprofil** durch Variation der Einschussenergie
+7. Maximum der Dotierkonzentration liegt **„vergraben“**
+
 Nachteile:
-1. Nur in oberflächennahen Bereichen anwendbar (bis circa 1 μm)
-2. Annealing kann i.A. Versetzungen, Defekte und amorphe Bereiche, die durch Strahlenschäden verursacht wurden, nicht vollständig beheben
-8.8 Annealing-Schritt
-Weshalb benötigt man nach der Dotierung durch Implantation einen Annealing-Schritt?
-Die Dotieratome auf Zwischengitterplätzen müssen in das reguläre Gitter eingebaut werden, was mit Hilfe von Anneailing erreicht werden kann, d.h. man aktiviert die Dotierstoffe elektrisch.
+1. Nur in **oberflächennahen** Bereichen anwendbar (bis circa 1 μm)
+2. Schäden können entstehen (Annealing (heiß machen) kann i.A. Versetzungen, Defekte und amorphe Bereiche, die durch Strahlenschäden verursacht wurden, nicht vollständig beheben)
+
+## 8.8 Annealing-Schritt
+
+### Weshalb benötigt man nach der Dotierung durch Implantation einen Annealing-Schritt?
+Tempern: Die Dotieratome auf Zwischengitterplätzen müssen in das reguläre Gitter eingebaut werden, was mit Hilfe von Anneailing erreicht werden kann, d.h. man aktiviert die Dotierstoffe elektrisch.
+
+# 9. Physical Vapor Deposition 
+
 9.1 Aufdampfen
 a) Beschreiben Sie die drei Teilprozesse beim Aufdampfen
 1. Thermisches Verdampfen von Material (1.000–3.500°C)
