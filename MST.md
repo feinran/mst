@@ -85,7 +85,7 @@
   - [2.20 Was sind im n-Typ Halbleiter …](#220-was-sind-im-n-typ-halbleiter)
     - [In welcher Richtung ist das Ferminiveau beim n-Typ Halbleiter verschoben (Leitungsband oder Valenzband)?](#in-welcher-richtung-ist-das-ferminiveau-beim-n-typ-halbleiter-verschoben-leitungsband-oder-valenzband)
   - [2.21 Anzahl der Elektronen im Leitungsband](#221-anzahl-der-elektronen-im-leitungsband)
-    - [lautet die Formel, mit der man die Anzahl der Elektronen im Leitungsband berechnet kann, wenn man die Zustandsdichte und das Ferminiveau kennt?](#lautet-die-formel-mit-der-man-die-anzahl-der-elektronen-im-leitungsband-berechnet-kann-wenn-man-die-zustandsdichte-und-das-ferminiveau-kennt)
+    - [Wie lautet die Formel, mit der man die Anzahl der Elektronen im Leitungsband berechnet kann, wenn man die Zustandsdichte und das Ferminiveau kennt?](#wie-lautet-die-formel-mit-der-man-die-anzahl-der-elektronen-im-leitungsband-berechnet-kann-wenn-man-die-zustandsdichte-und-das-ferminiveau-kennt)
   - [2.22 Optische Transmission](#222-optische-transmission)
     - [Erläutern Sie, warum Silizium-Membrane im Bereich von 1 μm bis 20 μm Dicke bei Betrachtung im Durchlicht unterschiedliche Farben haben?](#erl%c3%a4utern-sie-warum-silizium-membrane-im-bereich-von-1-%ce%bcm-bis-20-%ce%bcm-dicke-bei-betrachtung-im-durchlicht-unterschiedliche-farben-haben)
   - [2.23 Zonenziehen und Reinigung durch Segregation](#223-zonenziehen-und-reinigung-durch-segregation)
@@ -113,6 +113,7 @@
     - [Was versteht man unter einer „Raumladungszone“ und der „Diffusionsspannung“?](#was-versteht-man-unter-einer-%e2%80%9eraumladungszone-und-der-%e2%80%9ediffusionsspannung)
     - [Nennen Sie 3 typische Anwendungen für pn-Übergänge in der Mikrosystemtechnik bzw. Mikroelektronik](#nennen-sie-3-typische-anwendungen-f%c3%bcr-pn-%c3%9cberg%c3%a4nge-in-der-mikrosystemtechnik-bzw-mikroelektronik)
   - [3.7 Halbleiter-Diode](#37-halbleiter-diode)
+    - [Skizzieren Sie für einen pn-Übergang die Polarität der von außen anzulegenden Spannung, wenn die Diode in Durchlassrichtung betrieben werden soll.](#skizzieren-sie-f%c3%bcr-einen-pn-%c3%9cbergang-die-polarit%c3%a4t-der-von-au%c3%9fen-anzulegenden-spannung-wenn-die-diode-in-durchlassrichtung-betrieben-werden-soll)
     - [Vergrößert oder verkleinert sich in diesem Fall die Raumladungszone gegenüber dem pn-Übergang im Gleichgewicht ohne äußere Spannung?](#vergr%c3%b6%c3%9fert-oder-verkleinert-sich-in-diesem-fall-die-raumladungszone-gegen%c3%bcber-dem-pn-%c3%9cbergang-im-gleichgewicht-ohne-%c3%a4u%c3%9fere-spannung)
   - [3.8 Transistor](#38-transistor)
     - [Skizzieren Sie den Querschnitt eines n-Kanal Metall-Oxid-Halbleiter-Feldeffekttransistor (MOSFET).](#skizzieren-sie-den-querschnitt-eines-n-kanal-metall-oxid-halbleiter-feldeffekttransistor-mosfet)
@@ -142,7 +143,7 @@
     - [Was versteht man unter 3D-Druck?](#was-versteht-man-unter-3d-druck)
     - [Nennen Sie mindestens 3 gebräuchliche Verfahren](#nennen-sie-mindestens-3-gebr%c3%a4uchliche-verfahren)
   - [3.16 Direct laser writing mit 2-Photonen Absorption](#316-direct-laser-writing-mit-2-photonen-absorption)
-  - [Was ist das Besondere am Laser-Direct-Writing mit 2 Photonen Absorption?](#was-ist-das-besondere-am-laser-direct-writing-mit-2-photonen-absorption)
+    - [Was ist das Besondere am Laser-Direct-Writing mit 2 Photonen Absorption?](#was-ist-das-besondere-am-laser-direct-writing-mit-2-photonen-absorption)
 - [4. Reinraumtechnik](#4-reinraumtechnik)
   - [4.1 Ausbeutebetrachtung I](#41-ausbeutebetrachtung-i)
     - [Wafer wird in Prozessschritten hergestellt. Jeder einzelne Prozessschritt wird mit einer Ausbeute Ysi beherrscht. Wie berechnet sich die Gesamtausbeute an fehlerfrei prozessierten Wafern?](#wafer-wird-in-prozessschritten-hergestellt-jeder-einzelne-prozessschritt-wird-mit-einer-ausbeute-ysi-beherrscht-wie-berechnet-sich-die-gesamtausbeute-an-fehlerfrei-prozessierten-wafern)
@@ -708,7 +709,7 @@ Richtung Leitungsband
 
 ## 2.21 Anzahl der Elektronen im Leitungsband
 
-###  lautet die Formel, mit der man die Anzahl der Elektronen im Leitungsband berechnet kann, wenn man die Zustandsdichte und das Ferminiveau kennt?
+### Wie lautet die Formel, mit der man die Anzahl der Elektronen im Leitungsband berechnet kann, wenn man die Zustandsdichte und das Ferminiveau kennt?
 integral n(E)W(E) dE
 
 ## 2.22 Optische Transmission
@@ -807,7 +808,8 @@ Die zuvor elektrisch neutralen Kristalle haben durch die zurückbleibenden, fest
 3. Light Emmiting Diode
 
 ## 3.7 Halbleiter-Diode
-Skizzieren Sie für einen pn-Übergang die Polarität der von außen anzulegenden Spannung, wenn die Diode in Durchlassrichtung betrieben werden soll.
+
+### Skizzieren Sie für einen pn-Übergang die Polarität der von außen anzulegenden Spannung, wenn die Diode in Durchlassrichtung betrieben werden soll.
 ![Diode](MSTIMG/diode.jpg)
 
 ### Vergrößert oder verkleinert sich in diesem Fall die Raumladungszone gegenüber dem pn-Übergang im Gleichgewicht ohne äußere Spannung?
@@ -904,7 +906,7 @@ Nahezu jede Art von Werkstoff, beispielsweise Metalle, Dielektrika und organisch
 
 ## 3.16 Direct laser writing mit 2-Photonen Absorption
 
-## Was ist das Besondere am Laser-Direct-Writing mit 2 Photonen Absorption?
+### Was ist das Besondere am Laser-Direct-Writing mit 2 Photonen Absorption?
 1. Das zu polymerisierende Material darf optisch transparent sein
 2. Licht wird ausschließlich an den Stellen höchster Strahlintensität absorbiert (nur dort ist die Wahrscheinlichkeit, dass zwei Photonen gleichzeitig absorbiert werden ausreichend hoch)
 3. Pixelgröße des polymerisierten Materials ist kleiner als die Fokusgröße des Laserstrahls

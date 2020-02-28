@@ -1053,9 +1053,9 @@
 
 
 #### Reaktionslimitierung bei niedriger Prozesstemperatur:
-#4 Oberflächenreaktion
+
 #### Reaktionslimitierung bei hoher Prozesstemperatur:
-#2, #6 Diffusion
+
 
 ## 10.2 CVD mit Transportlimitierung: Prandl’sche Grenzschicht
 
@@ -1099,7 +1099,7 @@
 
 ## 10.6 Atomic Layer Deposition
 
-### Erläutern Sie das grundlegende Prinzip eines ALD Prozesses Spezielle
+### Erläutern Sie das grundlegende Prinzip eines ALD Prozesses
 
 
 
@@ -1183,7 +1183,7 @@
 ### Welche alternativen Verfahren kennen Sie für das Aufbringen des Fotoresist auf einen Wafer (nennen Sie zwei alternative Verfahren)?
 
 
-
+<!--
 ## 11.5 Verwendete Wellenlängen in der Lithografie
 
 ### Welche Arten von Strahlung (Wellenlängenbereiche und Strahlungsquellen) verwendet man in der Lithographie (gefragt sind 5 von mindestens 8 möglichen Varianten)?
@@ -1191,7 +1191,7 @@
 
 
 
-
+-->
 
 ## 11.6 Masken
 
